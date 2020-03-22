@@ -2,11 +2,9 @@
 
 
 
-<img src="Screenshot_1584887954.png" alt="page" style="zoom: 25%;" />
+![screenshot](Screenshot_1584887954.png)
 
-<img src="F:\nreckle\viewmodel\click.gif" alt="click" style="zoom:25%;" />
-
-
+![click](click.gif)
 
 ## ViewModelActivity
 
