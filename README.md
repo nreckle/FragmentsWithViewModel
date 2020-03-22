@@ -2,9 +2,9 @@
 
 
 
-![screenshot](Screenshot_1584887954.png)
+<img src="Screenshot_1584887954.png" alt="screenshot" style="zoom:25%;" />
 
-![click](click.gif)
+<img src="click.gif" alt="click" style="zoom:25%;" />
 
 ## ViewModelActivity
 
