@@ -2,9 +2,9 @@
 
 
 
-<img src="Screenshot_1584887954.png" alt="screenshot" style="zoom:25%;" />
+<img src="Screenshot_1584887954.png" alt="screenshot" width="250" />
 
-<img src="click.gif" alt="click" style="zoom:25%;" />
+<img src="click.gif" alt="click" width="250" />
 
 ## ViewModelActivity
 
